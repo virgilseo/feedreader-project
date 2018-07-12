@@ -36,6 +36,7 @@ $(function() {
             allFeeds.forEach(function(element) {
               expect(element.hasOwnProperty('url')).toBe(true);
               expect(element.url !== undefined).toBe(true);
+              expect(element.url === "").not.toBe(true);
             });
         });
 
@@ -47,7 +48,8 @@ $(function() {
 
              allFeeds.forEach(function(element) {
                expect(element.hasOwnProperty('name')).toBe(true);
-               expect(element.url !== undefined).toBe(true);
+               expect(element.name !== undefined).toBe(true);
+               expect(element.name === "").not.toBe(true);
              });
         });
 
