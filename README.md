@@ -30,7 +30,7 @@ It is highly recommended to use Chrome as your go to browser.
 
 ## Jasmine
 
-Some key features of the app were tested using Jasmine, a development framework for testing
+Some key features of the app were tested using [Jasmine](https://jasmine.github.io/), a development framework for testing
 Java Script code.
 
 The process is comprised of four different test suites:

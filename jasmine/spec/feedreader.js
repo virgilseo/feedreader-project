@@ -131,6 +131,7 @@ $(function() {
              expect(newFeed).not.toBe(currentFeed);
 
              done();
+
          });
     });
 }());
