@@ -1,14 +1,12 @@
+## Feed reader app
 
+Web-based application that reads RSS feeds.
 
 ## Table of Contents
 
 * [Instructions](#instructions)
 * [Installation](#installation)
 * [Jasmine](#jasmine)
-
-## Feed reader app
-
-Web-based application that reads RSS feeds.
 
 ## Instructions
 
@@ -26,7 +24,7 @@ There are 4 different RSS feeds to choose from:
 
 Clone the current repository using: git clone https://github.com/virgilseo/feedreader-project.git.
 
-Open the index.html file in your browser and start playing the game.
+Open the index.html file in your browser and start checking out RSS feeds.
 
 It is highly recommended to use Chrome as your go to browser.
 
@@ -39,7 +37,7 @@ The process is comprised of four different test suites:
 
 ##### RSS Feeds
 
-In this test we are making sure that the rss feeds are defined and they
+In this test we are making sure that the RSS feeds are defined and they
 contain a name and a URL.
 
 ##### The Menu
