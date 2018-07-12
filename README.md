@@ -4,9 +4,9 @@
 
 * [Instructions](#instructions)
 * [Installation](#installation)
-* [Jasmine Framework](#jasmine framework)
+* [Jasmine Framework](#jasmineframework)
 
-# Feed reader app
+## Feed reader app
 
 Web-based application that reads RSS feeds.
 
@@ -37,20 +37,20 @@ Java Script code.
 
 The process is comprised of four different test suites:
 
-### RSS Feeds
+##### RSS Feeds
 
 In this test we are making sure that the rss feeds are defined and they
 contain a name and a URL.
 
-### The Menu
+##### The Menu
 
 Ensuring the menu is hidden by default and that it changes visibility when the
 icon is clicked.
 
-### Initial Entries
+##### Initial Entries
 
 Ensuring the first RSS feed loads when we start the app.
 
-### New feed Selection
+##### New feed Selection
 
 Ensuring the content actually changes when the user selects a new feed.
