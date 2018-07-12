@@ -4,7 +4,7 @@
 
 * [Instructions](#instructions)
 * [Installation](#installation)
-* [Jasmine Framework](#jasmineframework)
+* [Jasmine](#jasmine)
 
 ## Feed reader app
 
@@ -30,7 +30,7 @@ Open the index.html file in your browser and start playing the game.
 
 It is highly recommended to use Chrome as your go to browser.
 
-## Jasmine Framework
+## Jasmine
 
 Some key features of the app were tested using Jasmine, a development framework for testing
 Java Script code.
