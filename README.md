@@ -10,7 +10,7 @@ Web-based application that reads RSS feeds.
 
 ## Instructions
 
-When you open the index.html yo will be presented with your first RSS feed.
+When you open the index.html file you will be presented with your first RSS feed.
 You have the ability to browse trough other feeds by clicking the menu icon
 on your top left corner of the page.
 
