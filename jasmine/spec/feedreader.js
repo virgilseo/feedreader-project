@@ -99,10 +99,9 @@ $(function() {
          });
 
          it('are loaded in the feed container', function(done) {
-             var feedsLink = $('.feed').children();
+             var feedList = $('.feed');
 
-             expect(feedsLink.children().hasClass('entry')).toBe(true);
-             expect(feedsLink.children().length).toBeGreaterThan(0);
+             expect(feedList.find('.entry').length).toBeGreaterThan(0);
 
              done();
          });
